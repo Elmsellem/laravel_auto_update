@@ -1,1 +1,3 @@
-# laravel_auto_update
+# laravel auto update
+
+Simple script for deploying latest changes from git remote repository.
